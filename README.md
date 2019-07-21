@@ -1,4 +1,5 @@
 # AWS Terraform Exercise
+A Demo Exercise for rains.tung 
 
 This is an excercise to test your AWS knowledge with Terraform, Git and some basic scripting.
 
